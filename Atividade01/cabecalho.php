@@ -11,5 +11,5 @@
 	</style>
 </head>
 <body>
-	<a href="index.php">Criar Carro</a> |
+	<a href="index.php">Index</a> |
 	<hr />

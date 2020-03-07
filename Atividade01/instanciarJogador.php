@@ -1,6 +1,7 @@
 <?php
 
 include "classJogador.php";
+include "cabecalho.php";
 
 $c = new Jogador(
 				$_POST["jogador1"],
